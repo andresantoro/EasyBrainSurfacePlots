@@ -2,7 +2,7 @@
 
 This repository contains some modified functions based on the packages `brainspace`, `neuromaps` to help people who are unfamiliar with existing neuroscience tools in generating nice surface brain plots using only a few lines of code, starting from a vector of real values.
 
-![Parcellated surface with colormaps](https://github.com/andresantoro/EasyBrainSurfacePlots/blob/main/easybrainsurfaceplot-multiview.jpg)
+![Parcellated surface with colormaps](https://github.com/andresantoro/EasyBrainSurfacePlots/blob/main/easybrainsurfaceplot-multiview.png)
 
 
 # Example code
